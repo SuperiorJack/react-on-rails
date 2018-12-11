@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+https://github.com/shakacode/react_on_rails/blob/master/docs/tutorial.md
+foreman start -f Procfile.dev
+foreman start -f Procfile.dev-server
